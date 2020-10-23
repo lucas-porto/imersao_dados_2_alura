@@ -52,5 +52,5 @@ Apresentados ao tão temido overfit e criada a discussão sobre overfit e os int
 
 ## Dados
 
-[Dados completos](http://inep.gov.br/microdados)
+[Dados completos](http://inep.gov.br/microdados) <br>
 [Amostra](https://github.com/alura-cursos/imersao-dados-2-2020/blob/master/MICRODADOS_ENEM_2019_SAMPLE_43278.csv?raw=true)
