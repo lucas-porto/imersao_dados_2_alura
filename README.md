@@ -47,7 +47,7 @@ do Scikit-Learning.
 ### Dia 4: Validação do Modelo
 
 Foi aprofundado o tema de machine learning e discutidas técnicas de cross-validation, que nos ajudaram a aumentar a confiança nos resultados dos modelos apresentados.<br>
-Apresentados ao tão temido overfit e criada a discussão sobre overfit e os intervalos de confiança
+Apresentados ao tão temido overfit e criada a discussão sobre overfit e os intervalos de confiança.
 
 
 ## Dados
