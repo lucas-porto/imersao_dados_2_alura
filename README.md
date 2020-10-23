@@ -16,7 +16,7 @@ com data science e ter uma idéia como é o início de um trabalho de um cientis
 
 Nele tivemos contato com algumas bibliotecas do Python como: Numpy, Matplotlib, Seaborn, Scikit-Learning.<br>
 
-<b>Qual foi o tema?</b>
+### Qual foi o tema?
 
 A base de dados foi a do ENEM de 2019, com as notas e informações de todo o Brasil.
 
